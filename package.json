@@ -1,0 +1,19 @@
+{
+  "name": "controler-crud-bg",
+  "version": "1.0.0",
+  "description": "simple common CRUD operation's query creator",
+  "main": "control.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bgbhavesh/controler-crud-bg.git"
+  },
+  "author": "bgbhavesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bgbhavesh/controler-crud-bg/issues"
+  },
+  "homepage": "https://github.com/bgbhavesh/controler-crud-bg#readme"
+}
